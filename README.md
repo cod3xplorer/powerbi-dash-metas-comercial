@@ -39,105 +39,108 @@ Principais análises:
 
 KPIs:
 
-Faturamento
+  Faturamento
 
-% Atingimento da Meta
+  % Atingimento da Meta
 
-Margem
+  Margem
 
-Ticket Médio
+  Ticket Médio
 
-Evolução temporal do faturamento
+  Evolução temporal do faturamento
 
-Comparação entre períodos (Ano atual vs anterior)
+  Comparação entre períodos (Ano atual vs anterior)
 
-Identificação automática de meses abaixo da meta
+  Identificação automática de meses abaixo da meta
 
 2. Performance do Time
    
 Destaques:
 
+  Ranking de vendedores
 
-Ranking de vendedores
+  % de atingimento da meta individual
 
-% de atingimento da meta individual
-
-Comparação mês a mês
+  Comparação mês a mês
 
 Gráfico de dispersão:
 
-Crescimento vs Atingimento
+  Crescimento vs Atingimento
 
 Identificação de:
 
-Alta performance
+  Alta performance
 
-Baixo crescimento
+  Baixo crescimento
 
 Risco comercial
 
 3. Performance dos Produtos
+
 Análises disponíveis:
 
-Top produtos por faturamento
+  Top produtos por faturamento
 
-Produtos com maior/menor margem
+  Produtos com maior/menor margem
 
 Relação:
 
-Faturamento vs Margem (%)
+  Faturamento vs Margem (%)
 
-Distribuição de preços
+  Distribuição de preços
 
 Identificação de oportunidades:
 
-Produtos rentáveis vs volume
+  Produtos rentáveis vs volume
 
 4. Forecast (Projeção de Meta)
 
 Recursos:
 
-Projeção de faturamento até o fim do período
+  Projeção de faturamento até o fim do período
+
 Comparação:
 
-Realizado vs Meta
+  Realizado vs Meta
 
-Forecast vs Meta
+  Forecast vs Meta
 
 Indicadores:
 
-% de atingimento projetado
+  % de atingimento projetado
 
-Meta diária necessária
+  Meta diária necessária
+
+Evolução acumulada
 
 5. Recomendação de Produtos
 
 Funcionalidades avançadas:
 
-Análise de histórico de compras
+  Análise de histórico de compras
 
-Identificação de clientes similares
+  Identificação de clientes similares
 
-Sugestão automática de produtos
+  Sugestão automática de produtos
 
 Baseado em:
 
-Perfil de compra
+  Perfil de compra
 
-Frequência
+  Frequência
 
-Similaridade entre clientes
+  Similaridade entre clientes
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas:
 
-Power BI Desktop
+  Power BI Desktop
 
-DAX (medidas e KPIs avançados)
+  DAX (medidas e KPIs avançados)
 
-Modelagem de dados
+  Modelagem de dados
 
-Storytelling com dados
+  Storytelling com dados
 
-Visual Analytics
+  Visual Analytics
 
 
